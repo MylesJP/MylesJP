@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Myles 👋
 
-I'm a post-bacc Computer Science student with a previous degree in Mechanical Engineering.
+I'm a second-career software developer with a previous degree in Mechanical Engineering.
 
 - 🔭 I’m currently working on an LLM project that uses SMS as the interface and provides relevant local information to the user
 - 🌱 I’m currently learning about PyTorch and the architecture of popular models
