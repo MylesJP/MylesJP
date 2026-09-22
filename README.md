@@ -1,10 +1,9 @@
 ### Hi everyone, I'm Myles 👋
 
-I'm a second-career software developer with a previous degree in Mechanical Engineering.
+I'm a Python software developer with a passion for open source and building software that delights. Some of my favourite previous projects are:
 
-- 🔭 I’m currently working on an LLM project that uses SMS as the interface and provides relevant local information to the user
-- 🌱 I’m currently learning about PyTorch and the architecture of popular models
-- 📫 How to reach me: myles.penner@outlook.com or https://www.linkedin.com/in/myles-penner/
-- ⚡ Fun fact: In my free time I love to cycle, cook, travel, tinker with RaspberryPi, and read science fiction
+- Work on Canonical's Kubernetes-based take on OpenStack called Sunbeam
+- Managing the Ubuntu/Debian OpenStack packages consumed by Sunbeam and other downstream projects
+- Developing tooling called Packastack to improve efficiency and reduced error-prone work
 
-Proficient in: Python, C, JavaScript, TypeScript, React, HTML, CSS
+Skills: Python, Linux, Bash, cloud computing, Kubernetes, MySQL, software packaging
